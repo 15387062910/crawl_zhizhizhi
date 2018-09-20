@@ -14,6 +14,12 @@
     
     www.zhizhi.com的api是/page/{} -> 获取数据
 
+### 爬取页面地址
+* 热门特价: https://zhizhizhi.com/
+* 最新特价: https://zhizhizhi.com/new/
+* 今日热榜: https://zhizhizhi.com/hot/today/
+* 国内优惠: https://zhizhizhi.com/d/cn/
+
 ### 项目结构
 * cached 缓存页面
 * models 数据类定义
