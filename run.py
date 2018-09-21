@@ -4,7 +4,7 @@
 from spider.goods import crawl_goods
 
 
-# todo - 待完成: 基础的数据存储功能
+# todo - 待完成: 爬取商品的详细信息
 def main():
     crawl_goods()
 

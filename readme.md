@@ -22,6 +22,8 @@
 
 ### 项目结构
 * cached 缓存页面
+* data   数据存储
+* img    图片存储
 * models 数据类定义
 * parse  项目数据解析
 * spider 下载页面以及爬取逻辑
@@ -37,5 +39,6 @@
         安装chrome 并安装相应插件: https://blog.csdn.net/qq_15158911/article/details/72403832
         注: 当然你也可以把selenium改成用firefox浏览器启动(听说简单方便，不需要额外去安装driver驱动)
         安装pyquery: pip3 install pyquery
+        安装requests: pip3 install requests
     运行:
         直接运行项目根目录下的run.py即可
